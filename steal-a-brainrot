@@ -1,4 +1,4 @@
 -- loader
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ravendsss/iva/refs/heads/main/script.obfuscated.lua"))()
-if not table.find({109983668079237, 96342491571673}, game.PlaceId) then game.Players.LocalPlayer:Kick("wrong game, this is not steal a brainrot.\nhttps://discord.gg/HcxFCR3ZTQ") return end
+if not table.find({109983668079237, 96342491571673}, game.PlaceId) then game.Players.LocalPlayer:Kick("Wrong game, this isn't Steal a brainrot!") return end
 -- main
