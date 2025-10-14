@@ -2,5 +2,8 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ravendsss/iva/refs/heads/main/script.obfuscated.lua"))()
 task.wait(15)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tienkhanh1/spicy/main/Chilli.lua"))()
+-- bypasser
+task.wait(8)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ravendsss/iva/refs/heads/main/bypass.lua"))()
 -- check if the game isn't sab
 if not table.find({109983668079237, 96342491571673}, game.PlaceId) then game.Players.LocalPlayer:Kick("Wrong game, this isn't Steal a brainrot!") return end
