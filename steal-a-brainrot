@@ -2,9 +2,9 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ravendsss/iva/refs/heads/main/script.obfuscated.lua"))()
 -- bypasser
 task.wait(15)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ravendsss/iva/refs/heads/main/sab.lua"))()
-task.wait(1)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ravendsss/iva/refs/heads/main/bypass.lua"))()
+task.wait(1)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ravendsss/iva/refs/heads/main/sab.lua"))()
 -- main
 task.wait(7)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DynaFetchy/Scripts/refs/heads/main/Loader.lua"))()
