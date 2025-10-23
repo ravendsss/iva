@@ -6,7 +6,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ravendsss/iva/refs/he
 task.wait(5)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ravendsss/iva/refs/heads/main/sab.lua"))()
 -- main
-task.wait(7)
+task.wait(5)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DynaFetchy/Scripts/refs/heads/main/Loader.lua"))()
 -- check if the game isn't sab
 if not table.find({109983668079237, 96342491571673}, game.PlaceId) then game.Players.LocalPlayer:Kick("[Devil Ugly] Wrong game, this isn't Steal a brainrot!") return end
