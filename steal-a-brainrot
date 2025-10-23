@@ -3,7 +3,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ravendsss/iva/refs/he
 -- bypasser
 task.wait(15)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ravendsss/iva/refs/heads/main/bypass.lua"))()
-task.wait(0)
+task.wait(5)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ravendsss/iva/refs/heads/main/sab.lua"))()
 -- main
 task.wait(7)
