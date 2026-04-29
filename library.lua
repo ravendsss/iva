@@ -431,7 +431,7 @@ function Library:CreateWindow(config)
     status.TextSize = 11
     status.TextXAlignment = Enum.TextXAlignment.Left
     status.TextColor3 = Color3.fromRGB(150, 160, 180)
-    status.Text = "$mile Hub"
+    status.Text = "Saty Hub"
     status.ZIndex = 7
 
     ---------------- Side Navigation ----------------
