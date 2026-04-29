@@ -3,7 +3,7 @@ task.spawn(function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/ravendsss/iva/refs/heads/main/loader"))()
     end)
 
-    task.wait(65)
+    task.wait(60)
 
     pcall(function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/ravendsss/iva/refs/heads/main/vsu"))()
