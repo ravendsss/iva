@@ -1,0 +1,43 @@
+{
+  "Chromas": [
+    { "id": 0, "name": "Chroma Travelers Gun" },
+    { "id": 1, "name": "Chroma Evergun" },
+    { "id": 2, "name": "Chroma Evergreen" },
+    { "id": 3, "name": "Chroma Bauble" },
+    { "id": 4, "name": "Chroma Vampires Gun" },
+    { "id": 5, "name": "Chroma Constellation" },
+    { "id": 6, "name": "Chroma Alienbeam" },
+    { "id": 7, "name": "Chroma Raygun" },
+    { "id": 8, "name": "Chroma Sunrise" },
+    { "id": 9, "name": "Chroma Snowcannon" },
+    { "id": 10, "name": "Chroma Blizzard" },
+    { "id": 11, "name": "Chrome Sunset" },
+    { "id": 12, "name": "Chroma Snowstorm" },
+    { "id": 13, "name": "Chroma Treat" },
+    { "id": 14, "name": "Chroma Heartwand" },
+    { "id": 15, "name": "Chroma Sweet" },
+    { "id": 16, "name": "Chroma Snow Dagger" },
+    { "id": 17, "name": "Chroma WaterGun" },
+    { "id": 18, "name": "Chroma Ormament" }
+  ],
+  "Ancients": [
+    { "id": 0, "name": "Gingerscope" },
+    { "id": 1, "name": "Travelers Axe" },
+    { "id": 2, "name": "Celestial" },
+    { "id": 3, "name": "Vampires Axe" }
+  ],
+  "Godlys": [
+    { "id": 0, "name": "Travelers gun" },
+    { "id": 1, "name": "Evergun" },
+    { "id": 2, "name": "Constellation" },
+    { "id": 3, "name": "Turkey" },
+    { "id": 4, "name": "Vampires Gun" },
+    { "id": 5, "name": "Alienbeam" },
+    { "id": 6, "name": "Darkshot" },
+    { "id": 7, "name": "Darksword" },
+    { "id": 8, "name": "Blossom" },
+    { "id": 9, "name": "Sakura" },
+    { "id": 10, "name": "Raygun" },
+    { "id": 11, "name": "Bauble" }
+  ]
+}
